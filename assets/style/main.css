@@ -71,7 +71,7 @@ header nav ul a {
   color: var(--white-color);
 }
 .crescent {
-  margin: 0 -70px 0 0;
+  margin: 0 -100px 0 0;
   width: 25px;
   cursor: pointer;
 }
@@ -97,7 +97,7 @@ header nav ul a {
     display: block;
     background-color: var(--heavenly-color);
     width: 40%;
-    height: 500px;
+    height: 610px;
     text-align: center;
     position: fixed;
     display: flex;
