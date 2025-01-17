@@ -107,5 +107,27 @@ header nav ul a {
     left: 0;
   }
 }
+section h2 {
+  display: flex;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  justify-content: center;
+  margin: 30px 0;
+}
+section ol li   {
+  line-height: 40px ;
+  margin: 40px;
+  color: var(--black-color);
+  background-color: var(--heavenly-color);
+  border-radius: 5px;
+  font-size: 25px;
+
+}
+section ol {
+  margin: 0 100px ;
+  background-color: #87ceeb;
+}
+
 
 
