@@ -56,6 +56,8 @@ header {
   justify-content: space-between;
 }
 .remembrances h2 {
+position: relative;
+right: 10px;
   color: var(--black-color);
 }
 header nav ul {
